@@ -3,6 +3,8 @@
 data/*
 models/*
 
+!models/*.csv
+
 notebooks/models
 # Except the exports folder
 !data/exports/
